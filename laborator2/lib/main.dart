@@ -137,7 +137,7 @@ class _BarbershopHomePageState extends State<BarbershopHomePage> {
         Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('Baltean Sergiu', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+            Text('Visterniceanu Roman', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
             SizedBox(height: 5),
             Text('ManageEngine', style: TextStyle(fontSize: 14, color: Colors.grey)),
           ],
